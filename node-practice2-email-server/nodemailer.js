@@ -4,8 +4,8 @@ const email = {
   host: "smtp.mailtrap.io",
   port: 2525,
   auth: {
-    user: "ee5c6fd601e300",
-    pass: "2185be9885bb2e"
+    user: "",
+    pass: ""
   }
 }
 
