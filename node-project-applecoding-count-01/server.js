@@ -9,7 +9,7 @@ app.set('view engine', 'ejs')
 const {
   MongoClient
 } = require('mongodb');
-const uri = 'mongodb+srv://enekelx1:qwer1234@yoggaebi-project.hhhyv.mongodb.net/yoggaebi-project?retryWrites=true&w=majority';
+const uri = '';
 const client = new MongoClient(uri, {
   useNewUrlParser: true,
   useUnifiedTopology: true
